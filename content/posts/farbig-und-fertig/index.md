@@ -1,8 +1,9 @@
 +++
 title = "Farbig und Fertig"
 date = "2022-05-16"
-draft = true
+draft = false
 pinned = false
+image = "microsoftteams-image-5-klein.jpg"
 +++
 In diesem Post möchte ich euch gerne meine fertige Arbeit zeigen. Ich finde diese Exemplare sind sehr sehr gut geworden. Sie gefallen mir persönlich sehr gut. 
 
